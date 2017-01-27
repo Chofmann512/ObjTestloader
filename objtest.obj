@@ -1,7 +1,7 @@
 # This file uses centimeters as units for non-parametric coordinates.
 
-#mtllib objtest.mtl
-#g default
+mtllib objtest.mtl
+g 
 v 0.454299 0.475141 -5.368080
 v 0.000000 0.627259 -5.900242
 v -0.454299 0.475141 -5.368079
